@@ -1,0 +1,43 @@
+#blog h2{
+	background-color: #000000;
+	color: #ffffff;
+	width: 90%; /*ancho*/
+	margin: auto;
+}
+
+h3{
+	padding-top: 30px;
+	padding-bottom: 30px; 
+}
+#blog{
+	padding-bottom: 30px; 
+	width: 100%; /*ancho*/
+	margin: auto;
+	background-color: #f2f2f2;
+}
+
+
+#blog h3{
+	text-align: center;
+}
+
+#blog .contenedor{
+	display:flex;
+	justify-content: center;
+	
+}
+
+#blog article{
+	margin: 15px;
+}
+
+#blog .segunda-foto{
+	width: 400px; /*ancho*/
+	height: 266px; /*alto*/
+}
+
+
+#blog .tercera-foto{
+	width: 400px; /*ancho*/
+	height: 250px; /*alto*/
+}
